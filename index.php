@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Aplikasi Perpustakaan</title>
+    <title>Aplikasi Perpustakaan lita</title>
 
     <!-- Custom fonts for this template-->  
     <link href="template/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
